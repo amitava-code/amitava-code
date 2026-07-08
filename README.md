@@ -1,6 +1,7 @@
 # hey twin, it's Amitava 👋
 
-full-stack dev currently AIMAXXING my way through life. no cap this is the real readme, not a project bit.
+full-stack dev currently AIMAXXING my way through life. no cap this is the real readme, not a project bit
+
 this readme is straight up ragebait, no cap
 
 ---
@@ -25,9 +26,13 @@ not a 10x dev, just a dev who's tired 10x. he's not perfect but he compiles.
 ## stack I actually use
 
 **frontend** → JavaScript, React
+
 **backend** → Node.js, FastAPI, JWT
+
 **databases** → MongoDB, PostgreSQL
+
 **cloud/tools** → AWS, GitHub, Jest
+
 
  STACKMAXXING — learning 6 frameworks nobody asked for
 
@@ -37,7 +42,7 @@ not a 10x dev, just a dev who's tired 10x. he's not perfect but he compiles.
 
 ## projects worth a look
 
-- - **CVify** — resume builder that doesn't suck
+- **CVify** — resume builder that doesn't suck
 - **Scuba_Cat** — because why not
 - **chota-spotify** — mini Spotify clone, indie house version
 - **backend-ledger** — ledger system, backendmaxxing arc

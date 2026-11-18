@@ -4,5 +4,8 @@ pov: my co-founder is pitching the startup and talking about some "Scalable Infr
 I implement load balancer so all my servers can crash equally 
 
 
+pata nehi kya hoga jo hoga sriji ke kripa se hoga
+
+
 ### Claude ka Token khatam to Mera Khel bhi khatam lala..............
    

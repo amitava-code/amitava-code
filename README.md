@@ -4,10 +4,5 @@ pov: my co-founder is pitching the startup and talking about some "Scalable Infr
 I implement load balancer so all my servers can crash equally 
 
 
-the more you LARP 
-   the less you LARP
-
-I can't do a bubble short...sorry striver
-
 ### Claude ka Token khatam to Mera Khel bhi khatam lala..............
    
